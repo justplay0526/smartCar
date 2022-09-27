@@ -1,14 +1,1 @@
----
-title : Flowchart
-tags : Flowchart
----
-```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-
-st->op->cond->st
-cond(yes)->e
-cond(no)->op
-​```
+$a_1x_1 + a_2x_2 + a_3x_3 + ... + a_nx_n = b$
